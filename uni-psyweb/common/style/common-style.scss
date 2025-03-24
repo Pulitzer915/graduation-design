@@ -1,0 +1,14 @@
+.pageBg{
+	width: 100%;
+	min-height: 100vh;
+	background: 
+	linear-gradient(to bottom,transparent,#fff 400px),
+	radial-gradient(90% 300px at left top, #95E0DC, transparent),
+	radial-gradient(60% 300px at right top, #B8E6FB, transparent);
+}
+
+.safe-area-inset-bottom{
+	height: env(safe-area-inset-bottom);
+}
+
+uni-tabbar{ bottom: 0rpx !important; }

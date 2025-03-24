@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "disableScroll": true,
+  "usingComponents": {
+    "uv-button": "../../uni_modules/uv-button/components/uv-button/uv-button"
+  }
+}

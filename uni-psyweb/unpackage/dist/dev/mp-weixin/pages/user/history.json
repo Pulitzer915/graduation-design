@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "qiun-data-charts": "../../uni_modules/qiun-data-charts/components/qiun-data-charts/qiun-data-charts",
+    "uv-picker": "../../uni_modules/uv-picker/components/uv-picker/uv-picker",
+    "uv-button": "../../uni_modules/uv-button/components/uv-button/uv-button"
+  }
+}

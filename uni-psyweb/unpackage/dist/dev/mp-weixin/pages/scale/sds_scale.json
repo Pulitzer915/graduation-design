@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "",
+  "usingComponents": {
+    "questionnaire-form": "../../components/QuestionnaireForm/QuestionnaireForm"
+  }
+}

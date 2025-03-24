@@ -1,0 +1,1 @@
+<uv-modal wx:if="{{e}}" class="r data-v-5118fab1" u-s="{{['d']}}" u-r="startModal" bindconfirm="{{c}}" bindcancel="{{d}}" u-i="5118fab1-0" bind:__l="__l" u-p="{{e}}"><view class="modalSlot data-v-5118fab1"><rich-text class="data-v-5118fab1" nodes="{{a}}"></rich-text></view></uv-modal>

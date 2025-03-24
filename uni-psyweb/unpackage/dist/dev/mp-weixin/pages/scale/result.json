@@ -1,0 +1,9 @@
+{
+  "navigationStyle": "custom",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uv-collapse-item": "../../uni_modules/uv-collapse/components/uv-collapse-item/uv-collapse-item",
+    "uv-collapse": "../../uni_modules/uv-collapse/components/uv-collapse/uv-collapse",
+    "uv-button": "../../uni_modules/uv-button/components/uv-button/uv-button"
+  }
+}

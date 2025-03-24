@@ -1,0 +1,1460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<key id="name" for="node" attr.name="name"/>
+<key id="text" for="node" attr.name="text"/>
+<key id="labels" for="node" attr.name="labels"/>
+<key id="label" for="edge" attr.name="label"/>
+<graph id="G" edgedefault="directed">
+<node id="n0" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n1" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n2" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n3" labels=":Feature"><data key="labels">:Feature</data><data key="name">自信心过高</data></node>
+<node id="n4" labels=":Question"><data key="labels">:Question</data><data key="text">我比平时更充满自信</data></node>
+<node id="n5" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n6" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n7" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n8" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n9" labels=":Feature"><data key="labels">:Feature</data><data key="name">睡眠需求减少</data></node>
+<node id="n10" labels=":Question"><data key="labels">:Question</data><data key="text">我睡眠比平时明显减少，但我并不感到缺乏睡眠</data></node>
+<node id="n11" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n12" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n13" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n14" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n15" labels=":Feature"><data key="labels">:Feature</data><data key="name">言语增多</data></node>
+<node id="n16" labels=":Question"><data key="labels">:Question</data><data key="text">我比平时更健谈/讲话特别快</data></node>
+<node id="n17" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n18" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n19" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n20" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n21" labels=":Feature"><data key="labels">:Feature</data><data key="name">思维奔逸</data></node>
+<node id="n22" labels=":Question"><data key="labels">:Question</data><data key="text">我感到思维迅速，想法特别多，或者我难以减慢自己的思维</data></node>
+<node id="n23" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n24" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n25" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n26" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n27" labels=":Feature"><data key="labels">:Feature</data><data key="name">精力充沛</data></node>
+<node id="n28" labels=":Question"><data key="labels">:Question</data><data key="text">我比平时更加精力充沛</data></node>
+<node id="n29" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n30" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n31" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n32" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n33" labels=":Feature"><data key="labels">:Feature</data><data key="name">行为活动增多</data></node>
+<node id="n34" labels=":Question"><data key="labels">:Question</data><data key="text">我平时更加积极主动或忙忙碌碌</data></node>
+<node id="n35" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n36" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n37" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n38" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n39" labels=":Question"><data key="labels">:Question</data><data key="text">我比平时更加乐于社交或外出，例如半夜还在打电话给朋友</data></node>
+<node id="n40" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n41" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n42" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n43" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n44" labels=":Feature"><data key="labels">:Feature</data><data key="name">性欲增强</data></node>
+<node id="n45" labels=":Question"><data key="labels">:Question</data><data key="text">我比平时性兴趣更强烈</data></node>
+<node id="n46" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n47" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n48" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n49" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n50" labels=":Feature"><data key="labels">:Feature</data><data key="name">冲动行为</data></node>
+<node id="n51" labels=":Question"><data key="labels">:Question</data><data key="text">我与平时处事的方式不一样，使得其他人感到过分，愚蠢，或者太危险</data></node>
+<node id="n52" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n53" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n54" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n55" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n56" labels=":Question"><data key="labels">:Question</data><data key="text">花钱大方给我或家人带来麻烦</data></node>
+<node id="n57" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n58" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n59" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n60" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n61" labels=":Feature"><data key="labels">:Feature</data><data key="name">诚实度降低</data></node>
+<node id="n62" labels=":Question"><data key="labels">:Question</data><data key="text">有时我也讲假话</data></node>
+<node id="n63" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n64" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n65" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n66" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n67" labels=":Feature"><data key="labels">:Feature</data><data key="name">生活态度消极</data></node>
+<node id="n68" labels=":Question"><data key="labels">:Question</data><data key="text">我的生活没有过得很有意思</data></node>
+<node id="n69" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n70" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n71" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n72" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n73" labels=":Question"><data key="labels">:Question</data><data key="text">我深信生活对我是残酷的</data></node>
+<node id="n74" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n75" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n76" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n77" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n78" labels=":Question"><data key="labels">:Question</data><data key="text">生活在这个时代并不美好</data></node>
+<node id="n79" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n80" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n81" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n82" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n83" labels=":Question"><data key="labels">:Question</data><data key="text">我觉得我的生活是失败的</data></node>
+<node id="n84" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n85" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n86" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n87" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n88" labels=":Feature"><data key="labels">:Feature</data><data key="name">自杀意念</data></node>
+<node id="n89" labels=":Question"><data key="labels">:Question</data><data key="text">大部分时间，我觉得我还是死了的好</data></node>
+<node id="n90" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n91" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n92" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n93" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n94" labels=":Question"><data key="labels">:Question</data><data key="text">我想结束自己的生命</data></node>
+<node id="n95" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n96" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n97" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n98" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n99" labels=":Feature"><data key="labels">:Feature</data><data key="name">早醒</data></node>
+<node id="n100" labels=":Question"><data key="labels">:Question</data><data key="text">我醒后难于再入睡</data></node>
+<node id="n101" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n102" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n103" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n104" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n105" labels=":Question"><data key="labels">:Question</data><data key="text">我醒得太早</data></node>
+<node id="n106" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n107" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n108" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n109" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n110" labels=":Feature"><data key="labels">:Feature</data><data key="name">过度担忧</data></node>
+<node id="n111" labels=":Question"><data key="labels">:Question</data><data key="text">我总是将事情看得严重些</data></node>
+<node id="n112" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n113" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n114" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n115" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n116" labels=":Feature"><data key="labels">:Feature</data><data key="name">自杀行为</data></node>
+<node id="n117" labels=":Question"><data key="labels">:Question</data><data key="text">我曾经自杀过</data></node>
+<node id="n118" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n119" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n120" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n121" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n122" labels=":Feature"><data key="labels">:Feature</data><data key="name">精神崩溃感</data></node>
+<node id="n123" labels=":Question"><data key="labels">:Question</data><data key="text">有时我觉得我就要垮了</data></node>
+<node id="n124" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n125" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n126" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n127" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n128" labels=":Feature"><data key="labels">:Feature</data><data key="name">睡眠不稳</data></node>
+<node id="n129" labels=":Question"><data key="labels">:Question</data><data key="text">我入睡后中间易醒</data></node>
+<node id="n130" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n131" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n132" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n133" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n134" labels=":Question"><data key="labels">:Question</data><data key="text">我睡得不安，很容易被吵醒</data></node>
+<node id="n135" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n136" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n137" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n138" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n139" labels=":Feature"><data key="labels">:Feature</data><data key="name">多梦</data></node>
+<node id="n140" labels=":Question"><data key="labels">:Question</data><data key="text">我经常多梦</data></node>
+<node id="n141" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n142" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n143" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n144" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n145" labels=":Feature"><data key="labels">:Feature</data><data key="name">使用安眠药</data></node>
+<node id="n146" labels=":Question"><data key="labels">:Question</data><data key="text">为了睡眠，我服用安眠药</data></node>
+<node id="n147" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n148" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n149" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n150" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n151" labels=":Feature"><data key="labels">:Feature</data><data key="name">无_在我的日常生活中，没有使我感兴趣的事情</data></node>
+<node id="n152" labels=":Question"><data key="labels">:Question</data><data key="text">在我的日常生活中，没有使我感兴趣的事情</data></node>
+<node id="n153" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n154" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n155" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n156" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n157" labels=":Feature"><data key="labels">:Feature</data><data key="name">无_我确实缺少自信心</data></node>
+<node id="n158" labels=":Question"><data key="labels">:Question</data><data key="text">我确实缺少自信心</data></node>
+<node id="n159" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n160" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n161" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n162" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n163" labels=":Feature"><data key="labels">:Feature</data><data key="name">无_我总觉得人生没有价值</data></node>
+<node id="n164" labels=":Question"><data key="labels">:Question</data><data key="text">我总觉得人生没有价值</data></node>
+<node id="n165" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n166" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n167" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n168" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n169" labels=":Feature"><data key="labels">:Feature</data><data key="name">无_有时我也会说人家的闲话</data></node>
+<node id="n170" labels=":Question"><data key="labels">:Question</data><data key="text">有时我也会说人家的闲话</data></node>
+<node id="n171" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n172" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n173" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n174" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n175" labels=":Feature"><data key="labels">:Feature</data><data key="name">无_偶尔我听了下流的笑话也会发笑</data></node>
+<node id="n176" labels=":Question"><data key="labels">:Question</data><data key="text">偶尔我听了下流的笑话也会发笑</data></node>
+<node id="n177" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n178" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n179" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n180" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n181" labels=":Feature"><data key="labels">:Feature</data><data key="name">无_我曾损坏或遗失过别人的东西</data></node>
+<node id="n182" labels=":Question"><data key="labels">:Question</data><data key="text">我曾损坏或遗失过别人的东西</data></node>
+<node id="n183" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n184" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n185" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n186" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n187" labels=":Feature"><data key="labels">:Feature</data><data key="name">无_有时我想一死了之，但又矛盾重重</data></node>
+<node id="n188" labels=":Question"><data key="labels">:Question</data><data key="text">有时我想一死了之，但又矛盾重重</data></node>
+<node id="n189" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n190" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n191" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n192" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n193" labels=":Feature"><data key="labels">:Feature</data><data key="name">无_您觉得平时睡眠足够吗？</data></node>
+<node id="n194" labels=":Question"><data key="labels">:Question</data><data key="text">您觉得平时睡眠足够吗？</data></node>
+<node id="n195" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n196" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n197" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n198" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n199" labels=":Feature"><data key="labels">:Feature</data><data key="name">无_您平时每个晚上大约能睡几小时？</data></node>
+<node id="n200" labels=":Question"><data key="labels">:Question</data><data key="text">您平时每个晚上大约能睡几小时？</data></node>
+<node id="n201" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n202" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n203" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n204" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n205" labels=":Feature"><data key="labels">:Feature</data><data key="name">无_您失眠后心情如何?</data></node>
+<node id="n206" labels=":Question"><data key="labels">:Question</data><data key="text">您失眠后心情如何?</data></node>
+<node id="n207" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n208" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n209" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n210" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n211" labels=":Feature"><data key="labels">:Feature</data><data key="name">情绪低落</data></node>
+<node id="n212" labels=":Question"><data key="labels">:Question</data><data key="text">我觉得闷闷不乐，情绪低沉</data></node>
+<node id="n213" labels=":Scale"><data key="labels">:Scale</data><data key="name">SDS</data></node>
+<node id="n214" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n215" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n216" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n217" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n218" labels=":Question"><data key="labels">:Question</data><data key="text">我时常感到悲观失望</data></node>
+<node id="n219" labels=":Scale"><data key="labels">:Scale</data><data key="name">SIOSS</data></node>
+<node id="n220" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n221" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n222" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n223" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n224" labels=":Feature"><data key="labels">:Feature</data><data key="name">晨重晚轻</data></node>
+<node id="n225" labels=":Question"><data key="labels">:Question</data><data key="text">我觉得一天中早上最糟</data></node>
+<node id="n226" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n227" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n228" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n229" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n230" labels=":Feature"><data key="labels">:Feature</data><data key="name">易哭</data></node>
+<node id="n231" labels=":Question"><data key="labels">:Question</data><data key="text">我一阵阵哭出来或觉得想哭</data></node>
+<node id="n232" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n233" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n234" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n235" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n236" labels=":Question"><data key="labels">:Question</data><data key="text">我容易哭或想哭</data></node>
+<node id="n237" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n238" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n239" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n240" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n241" labels=":Feature"><data key="labels">:Feature</data><data key="name">睡眠质量低</data></node>
+<node id="n242" labels=":Question"><data key="labels">:Question</data><data key="text">我晚上睡眠不好</data></node>
+<node id="n243" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n244" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n245" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n246" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n247" labels=":Question"><data key="labels">:Question</data><data key="text">您在睡眠后是否觉得已充分休息过了？</data></node>
+<node id="n248" labels=":Scale"><data key="labels">:Scale</data><data key="name">SRSS</data></node>
+<node id="n249" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n250" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n251" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n252" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n253" labels=":Question"><data key="labels">:Question</data><data key="text">您晚上已经睡过觉，白天是否打瞌睡？</data></node>
+<node id="n254" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n255" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n256" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n257" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n258" labels=":Feature"><data key="labels">:Feature</data><data key="name">食欲减退</data></node>
+<node id="n259" labels=":Question"><data key="labels">:Question</data><data key="text">我吃得没有平常多</data></node>
+<node id="n260" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n261" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n262" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n263" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n264" labels=":Feature"><data key="labels">:Feature</data><data key="name">性欲减退</data></node>
+<node id="n265" labels=":Question"><data key="labels">:Question</data><data key="text">我与异性密切接触时和以往一样感到愉快</data></node>
+<node id="n266" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n267" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n268" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n269" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n270" labels=":Feature"><data key="labels">:Feature</data><data key="name">体重减轻</data></node>
+<node id="n271" labels=":Question"><data key="labels">:Question</data><data key="text">我发现我的体重在下降</data></node>
+<node id="n272" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n273" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n274" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n275" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n276" labels=":Feature"><data key="labels">:Feature</data><data key="name">便秘</data></node>
+<node id="n277" labels=":Question"><data key="labels">:Question</data><data key="text">我有便秘的苦恼</data></node>
+<node id="n278" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n279" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n280" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n281" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n282" labels=":Feature"><data key="labels">:Feature</data><data key="name">心悸</data></node>
+<node id="n283" labels=":Question"><data key="labels">:Question</data><data key="text">我心跳比平常快</data></node>
+<node id="n284" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n285" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n286" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n287" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n288" labels=":Question"><data key="labels">:Question</data><data key="text">我觉得心跳得很快</data></node>
+<node id="n289" labels=":Scale"><data key="labels">:Scale</data><data key="name">SAS</data></node>
+<node id="n290" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n291" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n292" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n293" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n294" labels=":Feature"><data key="labels">:Feature</data><data key="name">精力减退</data></node>
+<node id="n295" labels=":Question"><data key="labels">:Question</data><data key="text">我无缘无故的感到疲乏</data></node>
+<node id="n296" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n297" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n298" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n299" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n300" labels=":Question"><data key="labels">:Question</data><data key="text">我感觉容易衰弱和疲惫</data></node>
+<node id="n301" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n302" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n303" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n304" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n305" labels=":Feature"><data key="labels">:Feature</data><data key="name">思考困难</data></node>
+<node id="n306" labels=":Question"><data key="labels">:Question</data><data key="text">我的头脑没有和平常一样清楚</data></node>
+<node id="n307" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n308" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n309" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n310" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n311" labels=":Feature"><data key="labels">:Feature</data><data key="name">能力减退</data></node>
+<node id="n312" labels=":Question"><data key="labels">:Question</data><data key="text">我觉得经常做的事情变得困难</data></node>
+<node id="n313" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n314" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n315" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n316" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n317" labels=":Feature"><data key="labels">:Feature</data><data key="name">坐立不安</data></node>
+<node id="n318" labels=":Question"><data key="labels">:Question</data><data key="text">我觉得不安而平静不下来</data></node>
+<node id="n319" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n320" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n321" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n322" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n323" labels=":Question"><data key="labels">:Question</data><data key="text">我觉得我不心平气和，并且不容易安静坐着</data></node>
+<node id="n324" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n325" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n326" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n327" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n328" labels=":Feature"><data key="labels">:Feature</data><data key="name">绝望</data></node>
+<node id="n329" labels=":Question"><data key="labels">:Question</data><data key="text">我对未来感到无望</data></node>
+<node id="n330" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n331" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n332" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n333" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n334" labels=":Question"><data key="labels">:Question</data><data key="text">我的前途似乎没有希望</data></node>
+<node id="n335" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n336" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n337" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n338" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n339" labels=":Question"><data key="labels">:Question</data><data key="text">我对将来不抱有希望</data></node>
+<node id="n340" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n341" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n342" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n343" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n344" labels=":Feature"><data key="labels">:Feature</data><data key="name">易激惹</data></node>
+<node id="n345" labels=":Question"><data key="labels">:Question</data><data key="text">我比平常容易生气激动</data></node>
+<node id="n346" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n347" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n348" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n349" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n350" labels=":Question"><data key="labels">:Question</data><data key="text">我特别容易激动，好指责他人，或易斗殴或吵架</data></node>
+<node id="n351" labels=":Scale"><data key="labels">:Scale</data><data key="name">MDQ</data></node>
+<node id="n352" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n353" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n354" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n355" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n356" labels=":Question"><data key="labels">:Question</data><data key="text">我有时发脾气</data></node>
+<node id="n357" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n358" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n359" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n360" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n361" labels=":Feature"><data key="labels">:Feature</data><data key="name">决断困难</data></node>
+<node id="n362" labels=":Question"><data key="labels">:Question</data><data key="text">我觉得做出决定是困难的</data></node>
+<node id="n363" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n364" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n365" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n366" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n367" labels=":Feature"><data key="labels">:Feature</data><data key="name">自我价值感低</data></node>
+<node id="n368" labels=":Question"><data key="labels">:Question</data><data key="text">我觉得自己是个有用的人，有人需要我</data></node>
+<node id="n369" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n370" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n371" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n372" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n373" labels=":Question"><data key="labels">:Question</data><data key="text">有时我觉得我真是毫无用处</data></node>
+<node id="n374" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n375" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n376" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n377" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n378" labels=":Feature"><data key="labels">:Feature</data><data key="name">无_我认为如果我死了，别人会过得更好一些</data></node>
+<node id="n379" labels=":Question"><data key="labels">:Question</data><data key="text">我认为如果我死了，别人会过得更好一些</data></node>
+<node id="n380" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n381" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n382" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n383" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n384" labels=":Feature"><data key="labels">:Feature</data><data key="name">兴趣减退</data></node>
+<node id="n385" labels=":Question"><data key="labels">:Question</data><data key="text">平常感兴趣的事我不再感兴趣</data></node>
+<node id="n386" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n387" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n388" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n389" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n390" labels=":Question"><data key="labels">:Question</data><data key="text">我对喜欢的事情不再有兴趣</data></node>
+<node id="n391" labels=":Scale"><data key="labels">:Scale</data><data key="name">PQ16</data></node>
+<node id="n392" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n393" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n394" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n395" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n396" labels=":Feature"><data key="labels">:Feature</data><data key="name">焦虑</data></node>
+<node id="n397" labels=":Question"><data key="labels">:Question</data><data key="text">我觉得比平常容易紧张和着急</data></node>
+<node id="n398" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n399" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n400" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n401" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n402" labels=":Question"><data key="labels">:Question</data><data key="text">我与人首次会面时会非常不安</data></node>
+<node id="n403" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n404" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n405" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n406" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n407" labels=":Question"><data key="labels">:Question</data><data key="text">有些时期我因忧虑而失眠</data></node>
+<node id="n408" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n409" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n410" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n411" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n412" labels=":Feature"><data key="labels">:Feature</data><data key="name">害怕</data></node>
+<node id="n413" labels=":Question"><data key="labels">:Question</data><data key="text">我无缘无故地感到害怕</data></node>
+<node id="n414" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n415" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n416" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n417" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n418" labels=":Feature"><data key="labels">:Feature</data><data key="name">惊恐</data></node>
+<node id="n419" labels=":Question"><data key="labels">:Question</data><data key="text">我容易心里烦乱或觉得惊恐</data></node>
+<node id="n420" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n421" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n422" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n423" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n424" labels=":Feature"><data key="labels">:Feature</data><data key="name">发疯感</data></node>
+<node id="n425" labels=":Question"><data key="labels">:Question</data><data key="text">我觉得我可能将要发疯</data></node>
+<node id="n426" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n427" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n428" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n429" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n430" labels=":Feature"><data key="labels">:Feature</data><data key="name">不幸预感</data></node>
+<node id="n431" labels=":Question"><data key="labels">:Question</data><data key="text">我不觉得一切都很好，可能会发生什么不幸</data></node>
+<node id="n432" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n433" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n434" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n435" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n436" labels=":Feature"><data key="labels">:Feature</data><data key="name">手足颤抖</data></node>
+<node id="n437" labels=":Question"><data key="labels">:Question</data><data key="text">我手脚发抖打颤</data></node>
+<node id="n438" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n439" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n440" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n441" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n442" labels=":Feature"><data key="labels">:Feature</data><data key="name">躯体疼痛</data></node>
+<node id="n443" labels=":Question"><data key="labels">:Question</data><data key="text">我因为头痛/头颈痛/背痛而苦恼</data></node>
+<node id="n444" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n445" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n446" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n447" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n448" labels=":Feature"><data key="labels">:Feature</data><data key="name">无_我因为一阵阵头晕而苦恼</data></node>
+<node id="n449" labels=":Question"><data key="labels">:Question</data><data key="text">我因为一阵阵头晕而苦恼</data></node>
+<node id="n450" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n451" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n452" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n453" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n454" labels=":Feature"><data key="labels">:Feature</data><data key="name">头晕</data></node>
+<node id="n455" labels=":Question"><data key="labels">:Question</data><data key="text">我有晕倒发作或觉得要晕倒似的</data></node>
+<node id="n456" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n457" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n458" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n459" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n460" labels=":Feature"><data key="labels">:Feature</data><data key="name">呼吸困难</data></node>
+<node id="n461" labels=":Question"><data key="labels">:Question</data><data key="text">我呼气、吸气都感到困难</data></node>
+<node id="n462" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n463" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n464" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n465" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n466" labels=":Feature"><data key="labels">:Feature</data><data key="name">手足刺痛</data></node>
+<node id="n467" labels=":Question"><data key="labels">:Question</data><data key="text">我手脚麻木和刺痛</data></node>
+<node id="n468" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n469" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n470" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n471" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n472" labels=":Feature"><data key="labels">:Feature</data><data key="name">胃痛</data></node>
+<node id="n473" labels=":Question"><data key="labels">:Question</data><data key="text">我因为胃痛/消化不良而苦恼</data></node>
+<node id="n474" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n475" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n476" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n477" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n478" labels=":Feature"><data key="labels">:Feature</data><data key="name">尿频</data></node>
+<node id="n479" labels=":Question"><data key="labels">:Question</data><data key="text">我常常要小便</data></node>
+<node id="n480" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n481" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n482" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n483" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n484" labels=":Feature"><data key="labels">:Feature</data><data key="name">多汗</data></node>
+<node id="n485" labels=":Question"><data key="labels">:Question</data><data key="text">我的手不常常是干燥温暖的</data></node>
+<node id="n486" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n487" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n488" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n489" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n490" labels=":Feature"><data key="labels">:Feature</data><data key="name">面部潮红</data></node>
+<node id="n491" labels=":Question"><data key="labels">:Question</data><data key="text">我脸红发热</data></node>
+<node id="n492" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n493" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n494" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n495" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n496" labels=":Feature"><data key="labels">:Feature</data><data key="name">入睡困难</data></node>
+<node id="n497" labels=":Question"><data key="labels">:Question</data><data key="text">我不容易入睡，并且一夜睡得不好</data></node>
+<node id="n498" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n499" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n500" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n501" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n502" labels=":Question"><data key="labels">:Question</data><data key="text">我不容易入睡，并且一夜睡不好</data></node>
+<node id="n503" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n504" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n505" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n506" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n507" labels=":Question"><data key="labels">:Question</data><data key="text">您是否有入睡困难？</data></node>
+<node id="n508" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n509" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n510" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n511" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n512" labels=":Feature"><data key="labels">:Feature</data><data key="name">噩梦</data></node>
+<node id="n513" labels=":Question"><data key="labels">:Question</data><data key="text">我做噩梦</data></node>
+<node id="n514" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n515" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n516" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n517" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n518" labels=":Feature"><data key="labels">:Feature</data><data key="name">囤积行为</data></node>
+<node id="n519" labels=":Question"><data key="labels">:Question</data><data key="text">我囤积了很多事情</data></node>
+<node id="n520" labels=":Scale"><data key="labels">:Scale</data><data key="name">OCI_R</data></node>
+<node id="n521" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n522" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n523" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n524" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n525" labels=":Question"><data key="labels">:Question</data><data key="text">我收集我不需要的东西</data></node>
+<node id="n526" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n527" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n528" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n529" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n530" labels=":Question"><data key="labels">:Question</data><data key="text">我不乱扔东西，因为我怕以后会用到</data></node>
+<node id="n531" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n532" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n533" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n534" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n535" labels=":Feature"><data key="labels">:Feature</data><data key="name">强迫性检查</data></node>
+<node id="n536" labels=":Question"><data key="labels">:Question</data><data key="text">不管有没有需要我都经常重复检查</data></node>
+<node id="n537" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n538" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n539" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n540" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n541" labels=":Question"><data key="labels">:Question</data><data key="text">我反复检查门，窗，抽屉等</data></node>
+<node id="n542" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n543" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n544" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n545" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n546" labels=":Question"><data key="labels">:Question</data><data key="text">关掉后我还会反复确认煤气、水龙头、电灯开关</data></node>
+<node id="n547" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n548" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n549" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n550" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n551" labels=":Feature"><data key="labels">:Feature</data><data key="name">强迫性秩序需求</data></node>
+<node id="n552" labels=":Question"><data key="labels">:Question</data><data key="text">如果事情没有安排好我会心烦意乱</data></node>
+<node id="n553" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n554" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n555" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n556" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n557" labels=":Question"><data key="labels">:Question</data><data key="text">如果别人改变了我计划好的事情我会觉得心烦意乱</data></node>
+<node id="n558" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n559" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n560" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n561" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n562" labels=":Question"><data key="labels">:Question</data><data key="text">我需要事情按照特定的顺序安排</data></node>
+<node id="n563" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n564" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n565" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n566" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n567" labels=":Feature"><data key="labels">:Feature</data><data key="name">强迫性计数</data></node>
+<node id="n568" labels=":Question"><data key="labels">:Question</data><data key="text">我做事情的时候会强迫自己去数数</data></node>
+<node id="n569" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n570" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n571" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n572" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n573" labels=":Question"><data key="labels">:Question</data><data key="text">我强迫自己重复某些数字</data></node>
+<node id="n574" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n575" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n576" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n577" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n578" labels=":Feature"><data key="labels">:Feature</data><data key="name">强迫性洁癖</data></node>
+<node id="n579" labels=":Question"><data key="labels">:Question</data><data key="text">如果我知道一样东西被陌生人或谁碰过我就很难接受让自己再去碰</data></node>
+<node id="n580" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n581" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n582" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n583" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n584" labels=":Question"><data key="labels">:Question</data><data key="text">我有时候强迫自己洗澡或清洗我自己因为我觉得脏</data></node>
+<node id="n585" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n586" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n587" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n588" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n589" labels=":Question"><data key="labels">:Question</data><data key="text">我比一般情况下洗手次数更多，洗手时间更长</data></node>
+<node id="n590" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n591" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n592" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n593" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n594" labels=":Feature"><data key="labels">:Feature</data><data key="name">思维失控</data></node>
+<node id="n595" labels=":Question"><data key="labels">:Question</data><data key="text">我很难控制自己的思想</data></node>
+<node id="n596" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n597" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n598" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n599" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n600" labels=":Question"><data key="labels">:Question</data><data key="text">当有和我意愿相反的想法时我会觉得心烦意乱</data></node>
+<node id="n601" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n602" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n603" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n604" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n605" labels=":Question"><data key="labels">:Question</data><data key="text">我经常会有龌龊的想法然后无法摆脱</data></node>
+<node id="n606" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n607" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n608" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n609" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n610" labels=":Question"><data key="labels">:Question</data><data key="text">有时我觉得无法控制自己的思维或想法</data></node>
+<node id="n611" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n612" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n613" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n614" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n615" labels=":Feature"><data key="labels">:Feature</data><data key="name">强迫性迷信</data></node>
+<node id="n616" labels=":Question"><data key="labels">:Question</data><data key="text">我觉得有好的和坏的数字</data></node>
+<node id="n617" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n618" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n619" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n620" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n621" labels=":Feature"><data key="labels">:Feature</data><data key="name">既视感</data></node>
+<node id="n622" labels=":Question"><data key="labels">:Question</data><data key="text">我经常经历一些似曾发生过的事情</data></node>
+<node id="n623" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n624" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n625" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n626" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n627" labels=":Feature"><data key="labels">:Feature</data><data key="name">幻嗅</data></node>
+<node id="n628" labels=":Question"><data key="labels">:Question</data><data key="text">我有时可以闻到别人闻不到的气味</data></node>
+<node id="n629" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n630" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n631" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n632" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n633" labels=":Feature"><data key="labels">:Feature</data><data key="name">幻味</data></node>
+<node id="n634" labels=":Question"><data key="labels">:Question</data><data key="text">我有时可以尝到别人尝不出的味道</data></node>
+<node id="n635" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n636" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n637" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n638" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n639" labels=":Feature"><data key="labels">:Feature</data><data key="name">幻听</data></node>
+<node id="n640" labels=":Question"><data key="labels">:Question</data><data key="text">我耳朵里经常出现一些不寻常的声音，如撞击声、碎裂声、嘶嘶声、拍打声、铃声等</data></node>
+<node id="n641" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n642" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n643" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n644" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n645" labels=":Question"><data key="labels">:Question</data><data key="text">我的想法有时很强烈以至于我几乎都能听到</data></node>
+<node id="n646" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n647" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n648" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n649" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n650" labels=":Question"><data key="labels">:Question</data><data key="text">我曾听到别人无法听到的声音，诸如窃窃私语或谈话声</data></node>
+<node id="n651" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n652" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n653" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n654" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n655" labels=":Feature"><data key="labels">:Feature</data><data key="name">现实感丧失</data></node>
+<node id="n656" labels=":Question"><data key="labels">:Question</data><data key="text">我有时会对自己经历的事情是真实的还是想像的感到困惑</data></node>
+<node id="n657" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n658" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n659" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n660" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n661" labels=":Feature"><data key="labels">:Feature</data><data key="name">幻视</data></node>
+<node id="n662" labels=":Question"><data key="labels">:Question</data><data key="text">当我注视他人或者镜子中的自己时，会发现面部在发生变化</data></node>
+<node id="n663" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n664" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n665" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n666" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n667" labels=":Question"><data key="labels">:Question</data><data key="text">我曾看到过别人无法看到的事物</data></node>
+<node id="n668" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n669" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n670" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n671" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n672" labels=":Feature"><data key="labels">:Feature</data><data key="name">妄想</data></node>
+<node id="n673" labels=":Question"><data key="labels">:Question</data><data key="text">我有时能从广告、商店橱窗或者周围事物的排列方式中发现特别的意义</data></node>
+<node id="n674" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n675" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n676" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n677" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n678" labels=":Question"><data key="labels">:Question</data><data key="text">我经常感到别人在针对我</data></node>
+<node id="n679" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n680" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n681" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n682" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n683" labels=":Question"><data key="labels">:Question</data><data key="text">我曾感到过，虽然看不见，但是有人或某种力量在我周围</data></node>
+<node id="n684" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n685" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n686" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n687" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n688" labels=":Question"><data key="labels">:Question</data><data key="text">我感到身体的某些部位以某种方式发生了变化，或某些部位的功能与以往不同</data></node>
+<node id="n689" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n690" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n691" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n692" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n693" labels=":Feature"><data key="labels">:Feature</data><data key="name">注意力集中困难</data></node>
+<node id="n694" labels=":Question"><data key="labels">:Question</data><data key="text">有时我会突然被远处一些平时没意识到的声音弄得分心</data></node>
+<node id="n695" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n696" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n697" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n698" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n699" labels=":Question"><data key="labels">:Question</data><data key="text">我很容易随境转移，注意力很难集中，或很难专心做一件事</data></node>
+<node id="n700" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<node id="n701" labels=":Option"><data key="labels">:Option</data><data key="text">小部分时间</data></node>
+<node id="n702" labels=":Option"><data key="labels">:Option</data><data key="text">相当多时间</data></node>
+<node id="n703" labels=":Option"><data key="labels">:Option</data><data key="text">绝大部分时间</data></node>
+<node id="n704" labels=":Feature"><data key="labels">:Feature</data><data key="name">情绪高涨</data></node>
+<node id="n705" labels=":Question"><data key="labels">:Question</data><data key="text">我感到非常好或者非常开心，但其他人认为我与平时不一样，或因为特别开心，兴奋而给我带来了麻烦</data></node>
+<node id="n706" labels=":Option"><data key="labels">:Option</data><data key="text">没有</data></node>
+<edge id="e0" source="n145" target="n146" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e1" source="n146" target="n248" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e2" source="n146" target="n147" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e3" source="n146" target="n148" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e4" source="n146" target="n149" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e5" source="n146" target="n150" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e6" source="n151" target="n152" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e7" source="n152" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e8" source="n152" target="n153" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e9" source="n152" target="n154" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e10" source="n152" target="n155" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e11" source="n152" target="n156" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e12" source="n157" target="n158" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e13" source="n158" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e14" source="n158" target="n159" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e15" source="n158" target="n160" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e16" source="n158" target="n161" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e17" source="n158" target="n162" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e18" source="n163" target="n164" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e19" source="n164" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e20" source="n164" target="n165" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e21" source="n164" target="n166" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e22" source="n164" target="n167" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e23" source="n164" target="n168" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e24" source="n169" target="n170" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e25" source="n170" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e26" source="n170" target="n171" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e27" source="n170" target="n172" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e28" source="n170" target="n173" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e29" source="n170" target="n174" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e30" source="n175" target="n176" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e31" source="n176" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e32" source="n176" target="n177" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e33" source="n176" target="n178" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e34" source="n176" target="n179" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e35" source="n176" target="n180" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e36" source="n181" target="n182" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e37" source="n182" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e38" source="n182" target="n183" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e39" source="n182" target="n184" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e40" source="n182" target="n185" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e41" source="n182" target="n186" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e42" source="n187" target="n188" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e43" source="n188" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e44" source="n188" target="n189" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e45" source="n188" target="n190" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e46" source="n188" target="n191" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e47" source="n188" target="n192" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e48" source="n193" target="n194" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e49" source="n194" target="n248" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e50" source="n194" target="n195" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e51" source="n194" target="n196" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e52" source="n194" target="n197" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e53" source="n194" target="n198" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e54" source="n199" target="n200" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e55" source="n200" target="n248" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e56" source="n200" target="n201" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e57" source="n200" target="n202" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e58" source="n200" target="n203" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e59" source="n200" target="n204" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e60" source="n205" target="n206" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e61" source="n206" target="n248" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e62" source="n206" target="n207" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e63" source="n206" target="n208" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e64" source="n206" target="n209" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e65" source="n206" target="n210" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e66" source="n211" target="n212" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e67" source="n212" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e68" source="n212" target="n214" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e69" source="n212" target="n215" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e70" source="n212" target="n216" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e71" source="n212" target="n217" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e72" source="n211" target="n218" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e73" source="n218" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e74" source="n218" target="n220" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e75" source="n218" target="n221" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e76" source="n218" target="n222" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e77" source="n218" target="n223" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e78" source="n224" target="n225" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e79" source="n225" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e80" source="n225" target="n226" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e81" source="n225" target="n227" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e82" source="n225" target="n228" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e83" source="n225" target="n229" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e84" source="n230" target="n231" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e85" source="n231" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e86" source="n231" target="n232" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e87" source="n231" target="n233" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e88" source="n231" target="n234" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e89" source="n231" target="n235" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e90" source="n230" target="n236" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e91" source="n236" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e92" source="n236" target="n237" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e93" source="n236" target="n238" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e94" source="n236" target="n239" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e95" source="n236" target="n240" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e96" source="n241" target="n242" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e97" source="n242" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e98" source="n242" target="n243" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e99" source="n242" target="n244" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e100" source="n242" target="n245" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e101" source="n242" target="n246" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e102" source="n241" target="n247" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e103" source="n247" target="n248" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e104" source="n247" target="n249" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e105" source="n247" target="n250" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e106" source="n247" target="n251" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e107" source="n247" target="n252" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e108" source="n241" target="n253" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e109" source="n253" target="n248" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e110" source="n253" target="n254" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e111" source="n253" target="n255" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e112" source="n253" target="n256" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e113" source="n253" target="n257" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e114" source="n258" target="n259" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e115" source="n259" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e116" source="n259" target="n260" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e117" source="n259" target="n261" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e118" source="n259" target="n262" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e119" source="n259" target="n263" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e120" source="n264" target="n265" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e121" source="n265" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e122" source="n265" target="n266" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e123" source="n265" target="n267" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e124" source="n265" target="n268" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e125" source="n265" target="n269" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e126" source="n270" target="n271" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e127" source="n271" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e128" source="n271" target="n272" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e129" source="n271" target="n273" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e130" source="n271" target="n274" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e131" source="n271" target="n275" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e132" source="n276" target="n277" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e133" source="n277" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e134" source="n277" target="n278" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e135" source="n277" target="n279" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e136" source="n277" target="n280" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e137" source="n277" target="n281" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e138" source="n282" target="n283" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e139" source="n283" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e140" source="n283" target="n284" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e141" source="n283" target="n285" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e142" source="n283" target="n286" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e143" source="n283" target="n287" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e144" source="n282" target="n288" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e145" source="n288" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e146" source="n288" target="n290" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e147" source="n288" target="n291" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e148" source="n288" target="n292" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e149" source="n288" target="n293" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e150" source="n294" target="n295" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e151" source="n295" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e152" source="n295" target="n296" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e153" source="n295" target="n297" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e154" source="n295" target="n298" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e155" source="n295" target="n299" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e156" source="n294" target="n300" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e157" source="n300" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e158" source="n300" target="n301" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e159" source="n300" target="n302" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e160" source="n300" target="n303" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e161" source="n300" target="n304" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e162" source="n305" target="n306" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e163" source="n306" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e164" source="n306" target="n307" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e165" source="n306" target="n308" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e166" source="n306" target="n309" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e167" source="n306" target="n310" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e168" source="n311" target="n312" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e169" source="n312" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e170" source="n312" target="n313" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e171" source="n312" target="n314" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e172" source="n312" target="n315" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e173" source="n312" target="n316" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e174" source="n317" target="n318" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e175" source="n318" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e176" source="n318" target="n319" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e177" source="n318" target="n320" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e178" source="n318" target="n321" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e179" source="n318" target="n322" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e180" source="n317" target="n323" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e181" source="n323" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e182" source="n323" target="n324" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e183" source="n323" target="n325" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e184" source="n323" target="n326" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e185" source="n323" target="n327" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e186" source="n328" target="n329" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e187" source="n329" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e188" source="n329" target="n330" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e189" source="n329" target="n331" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e190" source="n329" target="n332" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e191" source="n329" target="n333" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e192" source="n328" target="n334" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e193" source="n334" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e194" source="n334" target="n335" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e195" source="n334" target="n336" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e196" source="n334" target="n337" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e197" source="n334" target="n338" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e198" source="n328" target="n339" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e199" source="n339" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e200" source="n339" target="n340" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e201" source="n339" target="n341" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e202" source="n339" target="n342" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e203" source="n339" target="n343" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e204" source="n344" target="n345" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e205" source="n345" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e206" source="n345" target="n346" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e207" source="n345" target="n347" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e208" source="n345" target="n348" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e209" source="n345" target="n349" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e210" source="n344" target="n350" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e211" source="n350" target="n351" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e212" source="n350" target="n352" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e213" source="n350" target="n353" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e214" source="n350" target="n354" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e215" source="n350" target="n355" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e216" source="n344" target="n356" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e217" source="n356" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e218" source="n356" target="n357" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e219" source="n356" target="n358" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e220" source="n356" target="n359" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e221" source="n356" target="n360" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e222" source="n361" target="n362" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e223" source="n362" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e224" source="n362" target="n363" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e225" source="n362" target="n364" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e226" source="n362" target="n365" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e227" source="n362" target="n366" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e228" source="n367" target="n368" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e229" source="n368" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e230" source="n368" target="n369" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e231" source="n368" target="n370" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e232" source="n368" target="n371" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e233" source="n368" target="n372" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e234" source="n367" target="n373" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e235" source="n373" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e236" source="n373" target="n374" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e237" source="n373" target="n375" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e238" source="n373" target="n376" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e239" source="n373" target="n377" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e240" source="n378" target="n379" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e241" source="n379" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e242" source="n379" target="n380" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e243" source="n379" target="n381" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e244" source="n379" target="n382" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e245" source="n379" target="n383" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e246" source="n384" target="n385" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e247" source="n385" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e248" source="n385" target="n386" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e249" source="n385" target="n387" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e250" source="n385" target="n388" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e251" source="n385" target="n389" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e252" source="n384" target="n390" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e253" source="n390" target="n391" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e254" source="n390" target="n392" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e255" source="n390" target="n393" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e256" source="n390" target="n394" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e257" source="n390" target="n395" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e258" source="n396" target="n397" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e259" source="n397" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e260" source="n397" target="n398" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e261" source="n397" target="n399" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e262" source="n397" target="n400" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e263" source="n397" target="n401" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e264" source="n396" target="n402" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e265" source="n402" target="n391" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e266" source="n402" target="n403" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e267" source="n402" target="n404" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e268" source="n402" target="n405" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e269" source="n402" target="n406" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e270" source="n396" target="n407" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e271" source="n407" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e272" source="n407" target="n408" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e273" source="n407" target="n409" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e274" source="n407" target="n410" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e275" source="n407" target="n411" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e276" source="n412" target="n413" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e277" source="n413" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e278" source="n413" target="n414" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e279" source="n413" target="n415" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e280" source="n413" target="n416" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e281" source="n413" target="n417" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e282" source="n418" target="n419" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e283" source="n419" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e284" source="n419" target="n420" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e285" source="n419" target="n421" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e286" source="n419" target="n422" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e287" source="n419" target="n423" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e288" source="n424" target="n425" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e289" source="n425" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e290" source="n425" target="n426" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e291" source="n425" target="n427" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e292" source="n425" target="n428" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e293" source="n425" target="n429" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e294" source="n430" target="n431" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e295" source="n431" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e296" source="n431" target="n432" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e297" source="n431" target="n433" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e298" source="n431" target="n434" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e299" source="n431" target="n435" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e300" source="n436" target="n437" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e301" source="n437" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e302" source="n437" target="n438" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e303" source="n437" target="n439" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e304" source="n437" target="n440" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e305" source="n437" target="n441" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e306" source="n442" target="n443" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e307" source="n443" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e308" source="n443" target="n444" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e309" source="n443" target="n445" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e310" source="n443" target="n446" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e311" source="n443" target="n447" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e312" source="n448" target="n449" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e313" source="n449" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e314" source="n449" target="n450" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e315" source="n449" target="n451" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e316" source="n449" target="n452" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e317" source="n449" target="n453" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e318" source="n454" target="n455" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e319" source="n455" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e320" source="n455" target="n456" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e321" source="n455" target="n457" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e322" source="n455" target="n458" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e323" source="n455" target="n459" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e324" source="n460" target="n461" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e325" source="n461" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e326" source="n461" target="n462" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e327" source="n461" target="n463" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e328" source="n461" target="n464" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e329" source="n461" target="n465" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e330" source="n466" target="n467" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e331" source="n467" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e332" source="n467" target="n468" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e333" source="n467" target="n469" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e334" source="n467" target="n470" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e335" source="n467" target="n471" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e336" source="n472" target="n473" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e337" source="n473" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e338" source="n473" target="n474" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e339" source="n473" target="n475" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e340" source="n473" target="n476" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e341" source="n473" target="n477" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e342" source="n478" target="n479" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e343" source="n479" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e344" source="n479" target="n480" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e345" source="n479" target="n481" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e346" source="n479" target="n482" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e347" source="n479" target="n483" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e348" source="n484" target="n485" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e349" source="n485" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e350" source="n485" target="n486" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e351" source="n485" target="n487" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e352" source="n485" target="n488" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e353" source="n485" target="n489" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e354" source="n490" target="n491" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e355" source="n491" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e356" source="n491" target="n492" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e357" source="n491" target="n493" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e358" source="n491" target="n494" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e359" source="n491" target="n495" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e360" source="n496" target="n497" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e361" source="n497" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e362" source="n497" target="n498" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e363" source="n497" target="n499" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e364" source="n497" target="n500" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e365" source="n497" target="n501" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e366" source="n496" target="n502" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e367" source="n502" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e368" source="n502" target="n503" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e369" source="n502" target="n504" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e370" source="n502" target="n505" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e371" source="n502" target="n506" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e372" source="n496" target="n507" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e373" source="n507" target="n248" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e374" source="n507" target="n508" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e375" source="n507" target="n509" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e376" source="n507" target="n510" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e377" source="n507" target="n511" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e378" source="n512" target="n513" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e379" source="n513" target="n289" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e380" source="n513" target="n514" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e381" source="n513" target="n515" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e382" source="n513" target="n516" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e383" source="n513" target="n517" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e384" source="n518" target="n519" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e385" source="n519" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e386" source="n519" target="n521" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e387" source="n519" target="n522" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e388" source="n519" target="n523" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e389" source="n519" target="n524" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e390" source="n518" target="n525" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e391" source="n525" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e392" source="n525" target="n526" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e393" source="n525" target="n527" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e394" source="n525" target="n528" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e395" source="n525" target="n529" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e396" source="n518" target="n530" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e397" source="n530" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e398" source="n530" target="n531" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e399" source="n530" target="n532" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e400" source="n530" target="n533" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e401" source="n530" target="n534" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e402" source="n535" target="n536" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e403" source="n536" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e404" source="n536" target="n537" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e405" source="n536" target="n538" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e406" source="n536" target="n539" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e407" source="n536" target="n540" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e408" source="n535" target="n541" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e409" source="n541" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e410" source="n541" target="n542" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e411" source="n541" target="n543" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e412" source="n541" target="n544" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e413" source="n541" target="n545" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e414" source="n535" target="n546" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e415" source="n546" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e416" source="n546" target="n547" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e417" source="n546" target="n548" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e418" source="n546" target="n549" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e419" source="n546" target="n550" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e420" source="n551" target="n552" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e421" source="n552" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e422" source="n552" target="n553" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e423" source="n552" target="n554" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e424" source="n552" target="n555" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e425" source="n552" target="n556" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e426" source="n551" target="n557" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e427" source="n557" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e428" source="n557" target="n558" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e429" source="n557" target="n559" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e430" source="n557" target="n560" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e431" source="n557" target="n561" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e432" source="n551" target="n562" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e433" source="n562" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e434" source="n562" target="n563" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e435" source="n562" target="n564" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e436" source="n562" target="n565" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e437" source="n562" target="n566" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e438" source="n567" target="n568" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e439" source="n568" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e440" source="n568" target="n569" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e441" source="n568" target="n570" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e442" source="n568" target="n571" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e443" source="n568" target="n572" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e444" source="n567" target="n573" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e445" source="n573" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e446" source="n573" target="n574" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e447" source="n573" target="n575" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e448" source="n573" target="n576" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e449" source="n573" target="n577" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e450" source="n578" target="n579" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e451" source="n579" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e452" source="n579" target="n580" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e453" source="n579" target="n581" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e454" source="n579" target="n582" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e455" source="n579" target="n583" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e456" source="n578" target="n584" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e457" source="n584" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e458" source="n584" target="n585" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e459" source="n584" target="n586" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e460" source="n584" target="n587" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e461" source="n584" target="n588" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e462" source="n578" target="n589" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e463" source="n589" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e464" source="n589" target="n590" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e465" source="n589" target="n591" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e466" source="n589" target="n592" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e467" source="n589" target="n593" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e468" source="n594" target="n595" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e469" source="n595" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e470" source="n595" target="n596" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e471" source="n595" target="n597" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e472" source="n595" target="n598" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e473" source="n595" target="n599" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e474" source="n594" target="n600" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e475" source="n600" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e476" source="n600" target="n601" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e477" source="n600" target="n602" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e478" source="n600" target="n603" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e479" source="n600" target="n604" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e480" source="n594" target="n605" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e481" source="n605" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e482" source="n605" target="n606" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e483" source="n605" target="n607" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e484" source="n605" target="n608" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e485" source="n605" target="n609" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e486" source="n594" target="n610" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e487" source="n610" target="n391" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e488" source="n610" target="n611" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e489" source="n610" target="n612" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e490" source="n610" target="n613" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e491" source="n610" target="n614" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e492" source="n615" target="n616" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e493" source="n616" target="n520" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e494" source="n616" target="n617" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e495" source="n616" target="n618" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e496" source="n616" target="n619" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e497" source="n616" target="n620" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e498" source="n621" target="n622" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e499" source="n622" target="n391" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e500" source="n622" target="n623" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e501" source="n622" target="n624" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e502" source="n622" target="n625" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e503" source="n622" target="n626" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e504" source="n627" target="n628" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e505" source="n628" target="n391" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e506" source="n628" target="n629" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e507" source="n628" target="n630" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e508" source="n628" target="n631" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e509" source="n628" target="n632" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e510" source="n633" target="n634" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e511" source="n634" target="n391" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e512" source="n634" target="n635" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e513" source="n634" target="n636" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e514" source="n634" target="n637" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e515" source="n634" target="n638" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e516" source="n639" target="n640" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e517" source="n640" target="n391" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e518" source="n640" target="n641" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e519" source="n640" target="n642" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e520" source="n640" target="n643" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e521" source="n640" target="n644" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e522" source="n639" target="n645" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e523" source="n645" target="n391" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e524" source="n645" target="n646" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e525" source="n645" target="n647" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e526" source="n645" target="n648" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e527" source="n645" target="n649" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e528" source="n639" target="n650" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e529" source="n650" target="n391" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e530" source="n650" target="n651" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e531" source="n650" target="n652" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e532" source="n650" target="n653" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e533" source="n650" target="n654" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e534" source="n655" target="n656" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e535" source="n656" target="n391" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e536" source="n656" target="n657" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e537" source="n656" target="n658" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e538" source="n656" target="n659" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e539" source="n656" target="n660" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e540" source="n661" target="n662" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e541" source="n662" target="n391" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e542" source="n662" target="n663" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e543" source="n662" target="n664" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e544" source="n662" target="n665" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e545" source="n662" target="n666" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e546" source="n661" target="n667" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e547" source="n667" target="n391" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e548" source="n667" target="n668" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e549" source="n667" target="n669" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e550" source="n667" target="n670" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e551" source="n667" target="n671" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e552" source="n672" target="n673" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e553" source="n673" target="n391" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e554" source="n673" target="n674" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e555" source="n673" target="n675" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e556" source="n673" target="n676" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e557" source="n673" target="n677" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e558" source="n672" target="n678" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e559" source="n678" target="n391" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e560" source="n678" target="n679" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e561" source="n678" target="n680" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e562" source="n678" target="n681" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e563" source="n678" target="n682" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e564" source="n672" target="n683" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e565" source="n683" target="n391" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e566" source="n683" target="n684" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e567" source="n683" target="n685" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e568" source="n683" target="n686" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e569" source="n683" target="n687" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e570" source="n672" target="n688" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e571" source="n688" target="n391" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e572" source="n688" target="n689" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e573" source="n688" target="n690" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e574" source="n688" target="n691" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e575" source="n688" target="n692" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e576" source="n693" target="n694" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e577" source="n694" target="n391" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e578" source="n694" target="n695" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e579" source="n694" target="n696" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e580" source="n694" target="n697" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e581" source="n694" target="n698" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e582" source="n693" target="n699" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e583" source="n699" target="n351" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e584" source="n699" target="n700" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e585" source="n699" target="n701" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e586" source="n699" target="n702" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e587" source="n699" target="n703" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e588" source="n704" target="n705" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e589" source="n705" target="n351" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e590" source="n705" target="n706" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e591" source="n705" target="n0" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e592" source="n705" target="n1" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e593" source="n705" target="n2" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e594" source="n3" target="n4" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e595" source="n4" target="n351" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e596" source="n4" target="n5" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e597" source="n4" target="n6" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e598" source="n4" target="n7" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e599" source="n4" target="n8" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e600" source="n9" target="n10" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e601" source="n10" target="n351" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e602" source="n10" target="n11" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e603" source="n10" target="n12" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e604" source="n10" target="n13" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e605" source="n10" target="n14" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e606" source="n15" target="n16" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e607" source="n16" target="n351" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e608" source="n16" target="n17" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e609" source="n16" target="n18" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e610" source="n16" target="n19" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e611" source="n16" target="n20" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e612" source="n21" target="n22" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e613" source="n22" target="n351" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e614" source="n22" target="n23" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e615" source="n22" target="n24" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e616" source="n22" target="n25" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e617" source="n22" target="n26" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e618" source="n27" target="n28" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e619" source="n28" target="n351" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e620" source="n28" target="n29" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e621" source="n28" target="n30" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e622" source="n28" target="n31" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e623" source="n28" target="n32" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e624" source="n33" target="n34" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e625" source="n34" target="n351" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e626" source="n34" target="n35" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e627" source="n34" target="n36" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e628" source="n34" target="n37" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e629" source="n34" target="n38" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e630" source="n33" target="n39" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e631" source="n39" target="n351" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e632" source="n39" target="n40" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e633" source="n39" target="n41" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e634" source="n39" target="n42" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e635" source="n39" target="n43" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e636" source="n44" target="n45" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e637" source="n45" target="n351" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e638" source="n45" target="n46" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e639" source="n45" target="n47" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e640" source="n45" target="n48" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e641" source="n45" target="n49" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e642" source="n50" target="n51" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e643" source="n51" target="n351" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e644" source="n51" target="n52" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e645" source="n51" target="n53" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e646" source="n51" target="n54" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e647" source="n51" target="n55" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e648" source="n50" target="n56" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e649" source="n56" target="n351" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e650" source="n56" target="n57" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e651" source="n56" target="n58" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e652" source="n56" target="n59" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e653" source="n56" target="n60" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e654" source="n61" target="n62" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e655" source="n62" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e656" source="n62" target="n63" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e657" source="n62" target="n64" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e658" source="n62" target="n65" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e659" source="n62" target="n66" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e660" source="n67" target="n68" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e661" source="n68" target="n213" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e662" source="n68" target="n69" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e663" source="n68" target="n70" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e664" source="n68" target="n71" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e665" source="n68" target="n72" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e666" source="n67" target="n73" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e667" source="n73" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e668" source="n73" target="n74" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e669" source="n73" target="n75" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e670" source="n73" target="n76" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e671" source="n73" target="n77" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e672" source="n67" target="n78" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e673" source="n78" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e674" source="n78" target="n79" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e675" source="n78" target="n80" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e676" source="n78" target="n81" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e677" source="n78" target="n82" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e678" source="n67" target="n83" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e679" source="n83" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e680" source="n83" target="n84" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e681" source="n83" target="n85" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e682" source="n83" target="n86" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e683" source="n83" target="n87" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e684" source="n88" target="n89" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e685" source="n89" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e686" source="n89" target="n90" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e687" source="n89" target="n91" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e688" source="n89" target="n92" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e689" source="n89" target="n93" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e690" source="n88" target="n94" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e691" source="n94" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e692" source="n94" target="n95" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e693" source="n94" target="n96" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e694" source="n94" target="n97" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e695" source="n94" target="n98" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e696" source="n99" target="n100" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e697" source="n100" target="n248" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e698" source="n100" target="n101" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e699" source="n100" target="n102" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e700" source="n100" target="n103" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e701" source="n100" target="n104" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e702" source="n99" target="n105" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e703" source="n105" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e704" source="n105" target="n106" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e705" source="n105" target="n107" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e706" source="n105" target="n108" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e707" source="n105" target="n109" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e708" source="n110" target="n111" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e709" source="n111" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e710" source="n111" target="n112" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e711" source="n111" target="n113" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e712" source="n111" target="n114" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e713" source="n111" target="n115" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e714" source="n116" target="n117" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e715" source="n117" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e716" source="n117" target="n118" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e717" source="n117" target="n119" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e718" source="n117" target="n120" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e719" source="n117" target="n121" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e720" source="n122" target="n123" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e721" source="n123" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e722" source="n123" target="n124" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e723" source="n123" target="n125" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e724" source="n123" target="n126" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e725" source="n123" target="n127" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e726" source="n128" target="n129" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e727" source="n129" target="n248" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e728" source="n129" target="n130" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e729" source="n129" target="n131" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e730" source="n129" target="n132" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e731" source="n129" target="n133" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e732" source="n128" target="n134" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e733" source="n134" target="n219" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e734" source="n134" target="n135" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e735" source="n134" target="n136" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e736" source="n134" target="n137" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e737" source="n134" target="n138" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e738" source="n139" target="n140" label="HAS_QUESTION"><data key="label">HAS_QUESTION</data></edge>
+<edge id="e739" source="n140" target="n248" label="BELONGS_TO"><data key="label">BELONGS_TO</data></edge>
+<edge id="e740" source="n140" target="n141" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e741" source="n140" target="n142" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e742" source="n140" target="n143" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+<edge id="e743" source="n140" target="n144" label="HAS_OPTION"><data key="label">HAS_OPTION</data></edge>
+</graph>
+</graphml>

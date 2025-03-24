@@ -1,0 +1,210 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationStyle": "custom",
+				"disableScroll": true
+			}
+		},
+		{
+			"path" : "pages/robot/robot",
+			"style" : 
+			{
+				"navigationStyle": "custom",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/scale/scale",
+			"style" : 
+			{
+				"navigationStyle": "custom",
+				"enablePullDownRefresh" : false
+				// "disableScroll": true
+			}
+		},
+		{
+			"path" : "pages/user/user",
+			"style" : 
+			{
+				"navigationStyle": "custom",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/scale/question",
+			"style" : 
+			{
+				"navigationStyle": "custom",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/scale/result",
+			"style" : 
+			{
+				"navigationStyle": "custom",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/user/login",
+			"style" : 
+			{
+				"navigationBarTitleText" : "登录",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/user/history",
+			"style" : 
+			{
+				"navigationStyle": "custom",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/robot/question",
+			"style" : 
+			{
+				"navigationStyle": "custom",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/robot/chat",
+			"style" : 
+			{
+				"navigationStyle": "custom",
+				"enablePullDownRefresh" : false,
+				"disableScroll": true
+			}
+		},
+		{
+			"path" : "pages/user/register",
+			"style" : 
+			{
+				"navigationStyle": "custom",
+				"enablePullDownRefresh" : false
+			}
+		},
+		{
+			"path" : "pages/scale/sas_scale",
+			"style" : 
+			{
+				"navigationStyle": "custom",
+				"disableScroll": true
+			}
+		},
+		{
+			"path" : "pages/scale/sds_scale",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/scale/sds_result",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/scale/sas_result",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/scale/mdq_scale",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/scale/mdq_result",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/scale/pq16_scale",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/scale/pq16_result",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/scale/ocir_scale",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/scale/ocir_result",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		},
+		{
+			"path" : "pages/robot/recommend_scale",
+			"style" : 
+			{
+				"navigationBarTitleText" : ""
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"navigationStyle": "custom"
+	},
+	"uniIdRouter": {},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#48C4AF",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [
+		{
+			"pagePath": "pages/index/index",
+			"iconPath": "static/image/mp-axure-image/home.png",
+			"selectedIconPath": "static/image/mp-axure-image/home-h.png",
+			"text": "首页"
+		}, 
+		{
+			"pagePath": "pages/robot/robot",
+			"iconPath": "static/image/mp-axure-image/robot.png",
+			"selectedIconPath": "static/image/mp-axure-image/robot-h.png",
+			"text": "机器人"
+		},
+		{
+			"pagePath": "pages/scale/scale",
+			"iconPath": "static/image/mp-axure-image/scale.png",
+			"selectedIconPath": "static/image/mp-axure-image/scale-h.png",
+			"text": "量表"
+		},
+		{
+			"pagePath": "pages/user/register",
+			"iconPath": "static/image/mp-axure-image/user.png",
+			"selectedIconPath": "static/image/mp-axure-image/user-h.png",
+			"text": "我的"
+		}]
+	}
+}

@@ -1,0 +1,7 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-cell": "../../../uv-cell/components/uv-cell/uv-cell",
+    "uv-line": "../../../uv-line/components/uv-line/uv-line"
+  }
+}

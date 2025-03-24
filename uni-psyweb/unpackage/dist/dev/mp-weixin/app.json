@@ -1,0 +1,66 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/robot/robot",
+    "pages/scale/scale",
+    "pages/user/user",
+    "pages/scale/question",
+    "pages/scale/result",
+    "pages/user/login",
+    "pages/user/history",
+    "pages/robot/question",
+    "pages/robot/chat",
+    "pages/user/register",
+    "pages/scale/sas_scale",
+    "pages/scale/sds_scale",
+    "pages/scale/sds_result",
+    "pages/scale/sas_result",
+    "pages/scale/mdq_scale",
+    "pages/scale/mdq_result",
+    "pages/scale/pq16_scale",
+    "pages/scale/pq16_result",
+    "pages/scale/ocir_scale",
+    "pages/scale/ocir_result",
+    "pages/robot/recommend_scale"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8",
+    "navigationStyle": "custom"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#48C4AF",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/image/mp-axure-image/home.png",
+        "selectedIconPath": "static/image/mp-axure-image/home-h.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/robot/robot",
+        "iconPath": "static/image/mp-axure-image/robot.png",
+        "selectedIconPath": "static/image/mp-axure-image/robot-h.png",
+        "text": "机器人"
+      },
+      {
+        "pagePath": "pages/scale/scale",
+        "iconPath": "static/image/mp-axure-image/scale.png",
+        "selectedIconPath": "static/image/mp-axure-image/scale-h.png",
+        "text": "量表"
+      },
+      {
+        "pagePath": "pages/user/register",
+        "iconPath": "static/image/mp-axure-image/user.png",
+        "selectedIconPath": "static/image/mp-axure-image/user-h.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "usingComponents": {}
+}

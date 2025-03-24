@@ -1,0 +1,10 @@
+{
+  "component": true,
+  "usingComponents": {
+    "uv-radio": "../../uni_modules/uv-radio/components/uv-radio/uv-radio",
+    "uv-radio-group": "../../uni_modules/uv-radio/components/uv-radio-group/uv-radio-group",
+    "uv-form-item": "../../uni_modules/uv-form/components/uv-form-item/uv-form-item",
+    "uv-button": "../../uni_modules/uv-button/components/uv-button/uv-button",
+    "uv-form": "../../uni_modules/uv-form/components/uv-form/uv-form"
+  }
+}
